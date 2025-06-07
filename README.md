@@ -16,7 +16,7 @@ Regardless of which domain you choose (image or text), the project must use eith
 Your deliverable should be a functional Python script or Jupyter notebook that demonstrates the full model-building process. Additionally, include visualizations such as learning curves (loss/accuracy vs. epochs), sample predictions, or performance metrics to explain how well your model performs. These visuals are essential to assess model effectiveness and are an integral part of your submission.
 
 You are encouraged to explore online tutorials, courses, YouTube videos, and platforms like Kaggle to support your implementation. Store your code and files in a GitHub repository with proper documentation and comments to make your work readable and presentable.
-
+output:![Image](https://github.com/user-attachments/assets/41a97569-407e-429c-ac38-6e89d2c0a494)
 This task is designed to simulate the workflow of real-world AI projects and to help you build a strong portfolio piece that showcases your practical skills in deep learning. Whether you're classifying images or analyzing language, Task 2 is an opportunity to combine theory with hands-on experimentation and deliver a meaningful machine learning solution.
 
 
